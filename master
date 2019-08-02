@@ -1,0 +1,4 @@
+$ solana-keygen new -o ~/validator-keypair.json
+Wrote /Users/<your user name>/validator-keypair.json
+$ solana-keygen pubkey ~/validator-keypair.json
+<BASE58_PUBKEY>
